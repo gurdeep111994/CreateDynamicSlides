@@ -1,0 +1,11 @@
+E:\Gurdeep\MyownProjectProducts\CreatePPT\CreatePPT\bin\Debug\netcoreapp2.2\CreatePPT.deps.json
+E:\Gurdeep\MyownProjectProducts\CreatePPT\CreatePPT\bin\Debug\netcoreapp2.2\CreatePPT.runtimeconfig.json
+E:\Gurdeep\MyownProjectProducts\CreatePPT\CreatePPT\bin\Debug\netcoreapp2.2\CreatePPT.runtimeconfig.dev.json
+E:\Gurdeep\MyownProjectProducts\CreatePPT\CreatePPT\bin\Debug\netcoreapp2.2\CreatePPT.dll
+E:\Gurdeep\MyownProjectProducts\CreatePPT\CreatePPT\obj\Debug\netcoreapp2.2\CreatePPT.csprojAssemblyReference.cache
+E:\Gurdeep\MyownProjectProducts\CreatePPT\CreatePPT\obj\Debug\netcoreapp2.2\CreatePPT.csproj.CoreCompileInputs.cache
+E:\Gurdeep\MyownProjectProducts\CreatePPT\CreatePPT\obj\Debug\netcoreapp2.2\CreatePPT.AssemblyInfoInputs.cache
+E:\Gurdeep\MyownProjectProducts\CreatePPT\CreatePPT\obj\Debug\netcoreapp2.2\CreatePPT.AssemblyInfo.cs
+E:\Gurdeep\MyownProjectProducts\CreatePPT\CreatePPT\bin\Debug\netcoreapp2.2\CreatePPT.pdb
+E:\Gurdeep\MyownProjectProducts\CreatePPT\CreatePPT\obj\Debug\netcoreapp2.2\CreatePPT.dll
+E:\Gurdeep\MyownProjectProducts\CreatePPT\CreatePPT\obj\Debug\netcoreapp2.2\CreatePPT.pdb

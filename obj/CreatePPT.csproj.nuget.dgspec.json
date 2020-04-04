@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Gurdeep\\MyownProjectProducts\\CreatePPT\\CreatePPT\\CreatePPT.csproj": {}
+  },
+  "projects": {
+    "E:\\Gurdeep\\MyownProjectProducts\\CreatePPT\\CreatePPT\\CreatePPT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Gurdeep\\MyownProjectProducts\\CreatePPT\\CreatePPT\\CreatePPT.csproj",
+        "projectName": "CreatePPT",
+        "projectPath": "E:\\Gurdeep\\MyownProjectProducts\\CreatePPT\\CreatePPT\\CreatePPT.csproj",
+        "packagesPath": "C:\\Users\\Romi\\.nuget\\packages\\",
+        "outputPath": "E:\\Gurdeep\\MyownProjectProducts\\CreatePPT\\CreatePPT\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Romi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GemBox.Presentation": {
+              "target": "Package",
+              "version": "[23.0.1038, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Syncfusion.Presentation.Net.Core": {
+              "target": "Package",
+              "version": "[18.1.0.42, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
